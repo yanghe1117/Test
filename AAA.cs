@@ -8,6 +8,8 @@ namespace Test
 {
     class AAA
     { 
-        public string DM { get;set }
+        public string DM { get; set; }
+
+        public string MC { get; set; }
     }
 }
